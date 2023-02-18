@@ -3,8 +3,9 @@
 #  <img src="https://user-images.githubusercontent.com/200852/219815086-71c186c4-c973-44de-83fe-b6d4df49760e.jpg" width="36" height="36" alt="Rizzibles logo" style="border-radius: 50%;"> Rizzibles NFT ([@rizzibles](https://twitter.com/rizzibles))
 *3,333 hand-drawn quiet nerdy artist writer types making their way in web3.*
 
-[<img src="https://pbs.twimg.com/profile_images/1600634874523635713/DeqsZCIa_400x400.jpg" alt="GEMS - DeGod #4773" width="100" height="100" style="border-radius: 6px;" />](https://twitter.com/SolVisitors)
-A public blockchain art project made by [GEMS - SolVisitors](https://twitter.com/SolVisitors) (DeGod #4773)
+[<img src="https://pbs.twimg.com/profile_images/1600634874523635713/DeqsZCIa_400x400.jpg" alt="GEMS - DeGod #4773" width="100" height="100" style="border-radius: 6px;" /><img src="https://user-images.githubusercontent.com/200852/219833819-1209a8cc-9955-490b-b9fe-cbb1694fe532.png" alt="GEMS - y00t #13382" width="100" height="100" style="border-radius: 6px;" />](https://twitter.com/SolVisitors)
+
+A blockchain art project made by [GEMS - SolVisitors](https://twitter.com/SolVisitors) (DeGod #4773 / y00t #13382), [member of DeBuilders](https://debuilders.xyz/sol_visitors_imprints)
 
 ## Public information about the Rizzibles NFT project
 
