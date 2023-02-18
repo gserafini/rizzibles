@@ -73,8 +73,7 @@ Total mint supply is expected to be 3,333 digital collectibles living on the Sol
 
 
 ### Glossary
-- *"First 100 Followers"* - VIP status offered (must claim in order to have it though). Similar perks to the #rizzbassadors
-- *#rizzbassadors* – VIP - Guaranteed mint allocations. These go to our first and most loyal community members, will have preferred pricing to mint, are expected to participate in helping promote Rizzibles to the larger community.
+- *"First 100 Followers (#rizzbassadors)"* - VIP - Guaranteed mint allocations. Real humans only, no bots (sorry!) These go to our first and most loyal community members, will have preferred pricing to mint, are expected to participate in helping promote Rizzibles to the larger community. We expect ongoing engagement during the Building phase from our #rizzbassadors. If you are not interested in that level of participation, no problem, you will still have #rizzlist / Allowlist status. We will have a "Lock-In" period to confirm final #rizzbassador list of 100 people.
 - *#rizzlist* - our "allowlist" / "whitelist" for minting. Not guaranteed, FCFS. Discounted price compared to public. Will potentially be slightly overallocated since some on the list won't mint, but most who are interested should have a chance to mint their maximum allocations.
 
 ### Polls (non-binding)
