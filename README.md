@@ -24,7 +24,7 @@ A blockchain art project made by [GEMS - SolVisitors](https://twitter.com/SolVis
 - Website: [rizzibles.com](https://rizzibles.com/)
 - Twitter: [@rizzibles](https://twitter.com/rizzibles)
 - Discord: [https://discord.com/invite/TF7zW5q9Ur](https://discord.com/invite/TF7zW5q9Ur)*
-- "#rizzbassador" VIP List - [https://twitter.com/i/lists/1623049286840877056](https://twitter.com/i/lists/1623049286840877056)
+- Current "#rizzbassador" VIP List - [https://twitter.com/i/lists/1623049286840877056](https://twitter.com/i/lists/1623049286840877056)
 
 \* Our Discord community was originally created for the [Sol Visitors](https://solvisitors.com/) project. We are using it as our organizing home base, since there will be rewards for holding a [Sol Visitors First Wave: IMPRINT NFT](https://magiceden.io/marketplace/sol_visitors_imprints)
 
