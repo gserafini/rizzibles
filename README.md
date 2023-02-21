@@ -74,7 +74,7 @@ Total mint supply is expected to be 3,333 digital collectibles living on the Sol
 
 
 ### Glossary
-- *"First 100 Followers (#rizzbassadors)"* - VIP - Guaranteed mint allocations. Real humans only, no bots (sorry!) These go to our first and most loyal community members, will have preferred pricing to mint, are expected to participate in helping promote Rizzibles to the larger community. We expect ongoing engagement during the Building phase from our #rizzbassadors. If you are not interested in that level of participation, no problem, you will still have #rizzlist / Allowlist status. We will have a "Lock-In" period to confirm final #rizzbassador list of 100 people.
+- *"First 100 For-Real Followers" (#rizzbassadors)* - VIP - Guaranteed mint allocations. Real humans only, no bots (sorry!) These go to our first and most loyal community members, will have preferred pricing to mint, are expected to participate in helping promote Rizzibles to the larger community. We expect ongoing engagement during the Building phase from our #rizzbassadors. If you are not interested in that level of participation, no problem, you will still have #rizzlist / Allowlist status. We will have a "Lock-In" period to confirm final #rizzbassador list of 100 people.
 - *#rizzlist* - our "allowlist" / "whitelist" for minting. Not guaranteed, FCFS. Discounted price compared to public. Will potentially be slightly overallocated since some on the list won't mint, but most who are interested should have a chance to mint their maximum allocations.
 
 ### Polls (non-binding)
@@ -105,6 +105,7 @@ Selected / key public statements, offers and promises: (*not 100% exhaustive, wi
 
 | Date | Statement / link | Action | Follow-through |
 | ---- | ---------------- | ------ | -------------- |
+| Feb 21, 2023. | [GM! 17 spots left in our "First 100 For-Real Followers" list. It's a good list to get on (and stay on).](https://twitter.com/rizzibles/status/1628083074440531968) | Added the "For-Real" part to the First 100 Followers list | ✅ Updated the description above|
 | Feb 14, 2023 | [Our 42 followers gonna be happy they’re here now.](https://twitter.com/rizzibles/status/1625689469952356353) | Make them happy | Adding them to the #rizzbassadors list, will be opening form for wallet collection "soon" (TBD). |
 | Feb 9, 2023 | [Please nominate one or more artists that you think might like to participate (with compensation) in our little degen mint project. I would love to include as many as we can & also put a little $ into their pockets too. Feel free to nominate yourself too. ](https://twitter.com/rizzibles/status/1623743737745776640) | Invite nominated artists to collaborate on creating 1/1s for the collection | No artists nominated yet. Will most likely reach out directly to ones we think would be a good fit. |
 | Feb 7, 2023 | [This is a list of current @rizzibles VIP #rizzlist members (guaranteed mints). They may or may not have an invite code for you. Probably a good idea to follow anyone here you're not following already. 👀⚡️](https://twitter.com/SolVisitors/status/1623079098624118785) | Assigning First 100 Followers to #rizzlist status (should have specified #rizzbassador instead of #rizzlist status, still developing our definitions at this time) | Adding first 100 Followers to the #rizzbassadors Twitter list |
