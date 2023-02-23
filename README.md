@@ -37,7 +37,7 @@ flowchart LR
 ```
 
 ## (Some of our) to-do items - public [committments](#committments) detailed below:
-- [ ] Finish CM3 frontend minting site for Rizzcards mint
+- [ x ] Finish CM3 frontend minting site for Rizzcards mint - launched to holders only on Feb 23, 2023
 - [ ] Finalize Reveal Capsule NFT design
 - [ ] Award free mints to selected First 100 Followers
 - [ ] Design / launch "#rizzcademey"
@@ -46,6 +46,7 @@ flowchart LR
 - [ ] Create "Legend of #rizz" lore document
 - [ ] Collect wallet details for First 100 Followers / #rizzbassadors / VIPs
 - [ ] Explore possible rewards for staking. Custom SPL token? Existing token?
+- [ ] Decide on final method for exchanging 3 Rizzcard NFTs for 1 free Rizzibles mint
 
 ### About the project
 Rizzibles is a "degen-mint" style project intended to entertain, educate, and possibly reward early holders. The artist / dev behind it is GEMS, aka [@SolVisitors](https://twitter.com/SolVisitors). The project is being used to explore and test various web3 technologies (for example Metaplex Candy Machine v3, Certified Collections, Metaplex Enforced Royalties standard (pNFT), Staking, and Rewards). The cost to mint should be relatively low in order to encourage maximum participation from a wide variety of minters & traders, especially those not normally exposed to "influencer" sweetheart insider deals.
@@ -97,15 +98,14 @@ How many should we mint?
 
 
 
-
-
 ### Committments
 Selected / key public statements, offers and promises: (*not 100% exhaustive, will do our best to to continue documenting these here to keep track (public accountability)*)
 
 
 | Date | Statement / link | Action | Follow-through |
 | ---- | ---------------- | ------ | -------------- |
-| Feb 21, 2023. | [GM! 17 spots left in our "First 100 For-Real Followers" list. It's a good list to get on (and stay on).](https://twitter.com/rizzibles/status/1628083074440531968) | Added the "For-Real" part to the First 100 Followers list | ✅ Updated the description above|
+| Feb 23, 2023 | You may be able to exchange 3 of these for 1 Rizzibles mint (a nice discount on what that mint price is likely to be) - Discord announcement | Finalize process for exchanging 3 Rizzcards for 1 Rizzibles free mint | TBD |
+| Feb 21, 2023 | [GM! 17 spots left in our "First 100 For-Real Followers" list. It's a good list to get on (and stay on).](https://twitter.com/rizzibles/status/1628083074440531968) | Added the "For-Real" part to the First 100 Followers list | ✅ Updated the description above|
 | Feb 14, 2023 | [Our 42 followers gonna be happy they’re here now.](https://twitter.com/rizzibles/status/1625689469952356353) | Make them happy | Adding them to the #rizzbassadors list, will be opening form for wallet collection "soon" (TBD). |
 | Feb 9, 2023 | [Please nominate one or more artists that you think might like to participate (with compensation) in our little degen mint project. I would love to include as many as we can & also put a little $ into their pockets too. Feel free to nominate yourself too. ](https://twitter.com/rizzibles/status/1623743737745776640) | Invite nominated artists to collaborate on creating 1/1s for the collection | No artists nominated yet. Will most likely reach out directly to ones we think would be a good fit. |
 | Feb 7, 2023 | [This is a list of current @rizzibles VIP #rizzlist members (guaranteed mints). They may or may not have an invite code for you. Probably a good idea to follow anyone here you're not following already. 👀⚡️](https://twitter.com/SolVisitors/status/1623079098624118785) | Assigning First 100 Followers to #rizzlist status (should have specified #rizzbassador instead of #rizzlist status, still developing our definitions at this time) | Adding first 100 Followers to the #rizzbassadors Twitter list |
