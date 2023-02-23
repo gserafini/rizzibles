@@ -37,7 +37,7 @@ flowchart LR
 ```
 
 ## (Some of our) to-do items - public [committments](#committments) detailed below:
-- [ x ] Finish CM3 frontend minting site for Rizzcards mint - launched to holders only on Feb 23, 2023
+- [X] Finish CM3 frontend minting site for Rizzcards mint - launched to holders only on Feb 23, 2023
 - [ ] Finalize Reveal Capsule NFT design
 - [ ] Award free mints to selected First 100 Followers
 - [ ] Design / launch "#rizzcademey"
